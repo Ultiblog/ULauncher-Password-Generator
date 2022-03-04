@@ -1,0 +1,19 @@
+{
+    "required_api_version": "^2.0.0",
+    "name": "Password Generator",
+    "description": "Generate a random password",
+    "developer_name": "Sakellariou George",
+    "icon": "images/lock.png",
+    "options": {
+        "query_debounce": 0.1
+    },
+    "preferences": [
+        {
+            "id": "gs_pw_gen",
+            "type": "keyword",
+            "name": "Password Generator",
+            "description": "Generate a random password",
+            "default_value": "Password"
+        }
+    ]
+}
