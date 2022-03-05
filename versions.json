@@ -5,6 +5,6 @@
   },
   {
     "required_api_version": "^2.3.1",
-    "commit": "master"
+    "commit": "main"
   }
 ]
